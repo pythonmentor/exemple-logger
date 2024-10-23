@@ -10,3 +10,6 @@ Pour démarrer l'application, exécutez cette commande:
 ```bash
 $ python -m exemple
 ```
+
+Les logs avec un niveau DEBUG et plus haut vont dand le fichier exemple.log.
+Les logd avec un noveau ERROR et plus haut sont en plus affichés sur le terminal.
